@@ -1,0 +1,2 @@
+version=3
+https://metacpan.org/release/Test-Perl-Critic .*/Test-Perl-Critic-([\.\d]+)\.(?:tar\.gz|tar|tgz)$
